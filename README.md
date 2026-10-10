@@ -1,50 +1,53 @@
-# Hi, I'm Zihan Xu (徐子涵)
+# Hi, I'm Zihan Xu (徐子涵) 👋
 
-**Software Engineering undergraduate** · Seeking 2026 summer internship · Based in Yinchuan, China
+**Software Engineering undergraduate (Class of 2028)** · Based in Yinchuan, China
 
-I build full-stack applications and quantitative trading systems. I care about clean architecture, testable code, and shipping things that actually run.
+I build **AI-powered enterprise applications** and full-stack systems. I care about clean architecture, testable code, and shipping things that actually run — the same discipline I'm applying toward a career in enterprise software and cloud development.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages** — Java · Python · JavaScript (ES6+) · C · SQL
 
-**Backend** — Node.js (Express) · Spring Boot (learning) · RESTful API design
+**Backend** — Node.js (Express) · Spring Boot (learning) · FastAPI · RESTful API design
 
-**Frontend** — React · HTML5/CSS3 · Vite · HarmonyOS ArkTS
+**Frontend** — Vue3 (learning) · React · HTML5/CSS3 · Vite · HarmonyOS ArkTS
 
-**Data & Tools** — MySQL · Docker · Linux (Mint / WSL) · Git · Nginx
+**AI / Data** — LLM API Integration · RAG · Prompt Engineering · pandas · backtrader · AkShare
 
-**Quant & Data** — backtrader · AkShare · pandas · backtesting & factor analysis
+**Data & Tools** — MySQL · Redis (learning) · Docker · Linux (Mint / WSL) · Git · Nginx
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### [quant_ai](https://github.com/zihanxu330/quant_ai) — A-Share Quantitative Backtesting System
-- Backtrader-based backtest engine for A-share stocks with real data (AkShare)
-- Multi-factor trend strategy: MA alignment + momentum + RSI filtering, ATR/trailing stop
-- React dashboard for interactive backtesting (symbol, date range, parameters)
-- Outputs: equity curve, Sharpe ratio, max drawdown, win rate
-
-### [jiajia](https://github.com/zihanxu330/jiajia) — Housekeeping AI Dispatch System
+### [enterprise-dispatch-platform](https://github.com/zihanxu330/enterprise-dispatch-platform) — Enterprise AI Dispatch Platform
 - Full-stack order dispatch platform: Node.js + Express backend, static frontend
-- **AI dispatch engine**: DeepSeek picks the optimal station & worker by distance, rating, and skill match
-- AMap integration for geolocation and nearest-station lookup
+- **LLM dispatch engine**: DeepSeek selects the optimal station & worker by distance, rating, and skill match
+- AMap geolocation for nearest-station lookup
 - Complete order lifecycle: create → dispatch → complete
 
+### [intelligent-data-analysis-platform](https://github.com/zihanxu330/intelligent-data-analysis-platform) — Intelligent Data Analysis Platform
+- End-to-end data pipeline: real market data → factor computation → strategy backtest → metrics & visualization
+- Multi-factor trend strategy: MA alignment + momentum + RSI filter, ATR/trailing stop
+- Interactive React dashboard: pick symbols, tune parameters, view K-line / equity curve / trades
+
+### [ai-enterprise-assistant](https://github.com/zihanxu330/ai-enterprise-assistant) — AI Enterprise Assistant *(in progress)*
+- LLM-powered enterprise knowledge assistant with Retrieval-Augmented Generation
+- Tech: Python · LLM API · RAG · Vector Database · FastAPI
+
 ---
 
-## What I'm Working On
+## 🔭 What I'm Working On
 
-- Deepening Java/Spring Boot backend skills
-- Expanding quant_ai: multi-factor stock selection + ML prediction (time-series aware)
-- Preparing for 2026 summer internship (Apple / SAP / ByteDance)
+- Applying to **SAP VT/STAR 2028 (Application Engineer)** — deepening Java/Spring Boot & AI application skills
+- Building a **RAG-based enterprise assistant** (knowledge base + LLM + vector search)
+- Preparing for **2028 overseas CS master's applications**
 
 ---
 
-## Get in Touch
+## 📫 Get in Touch
 
 - GitHub: [zihanxu330](https://github.com/zihanxu330)
 - Email: 226466417@qq.com
