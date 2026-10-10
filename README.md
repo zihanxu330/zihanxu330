@@ -40,8 +40,6 @@ I build **AI-powered enterprise applications** and full-stack systems. I care ab
 ---
 
 ## 🔭 What I'm Working On
-
-- Applying to **SAP VT/STAR 2028 (Application Engineer)** — deepening Java/Spring Boot & AI application skills
 - Building a **RAG-based enterprise assistant** (knowledge base + LLM + vector search)
 - Continuously strengthening CS fundamentals and engineering practice
 
