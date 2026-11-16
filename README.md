@@ -8,9 +8,9 @@ Software engineering undergraduate, class of 2028. I build Python tools for quan
 
 **[Quant Research & Backtesting](https://github.com/zihanxu330/intelligent-data-analysis-platform)**
 
-The offline example generates synthetic prices, runs a rule-based strategy and writes the result to JSON. You can change the moving-average windows, rerun the experiment and inspect the strategy and engine behind each run.
+Can a liquidity signal beat a much simpler rule that picks stocks with low trading value? I built a matched comparison for Chinese A-shares and traced the difference in returns to individual holdings, fees and slippage. The signal won 21 of 37 rebalance periods and still finished behind.
 
-[Trace a backtest](https://github.com/zihanxu330/intelligent-data-analysis-platform#trace-a-backtest) · [Run the demo](https://github.com/zihanxu330/intelligent-data-analysis-platform#quick-start)
+[Read the research case](https://github.com/zihanxu330/intelligent-data-analysis-platform#does-the-amihud-signal-add-value-beyond-low-trading-value) · [Trace a backtest](https://github.com/zihanxu330/intelligent-data-analysis-platform#trace-a-backtest) · [Run the demo](https://github.com/zihanxu330/intelligent-data-analysis-platform#quick-start)
 
 ## Other projects
 
