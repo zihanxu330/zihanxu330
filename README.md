@@ -1,13 +1,20 @@
 # 徐子涵 · Zihan Xu
 
-软件工程本科生（2028 届），关注 Python、AI 应用与数据分析。
+Software engineering undergraduate, class of 2028. I build Python tools for quantitative research and data analysis. My main project is an A-share research workbench where you can follow a trading rule from its input prices through to the backtest result.
 
-## 项目
+软件工程本科生（2028 届），关注量化研究、数据分析与 AI 应用。
 
-- **[AI 知识库助手](https://github.com/zihanxu330/ai-enterprise-assistant)**：文档检索与问答，附离线演示。
-- **[家政派单平台](https://github.com/zihanxu330/enterprise-dispatch-platform)**：订单创建、派单与完结。
-- **[量化研究工具](https://github.com/zihanxu330/intelligent-data-analysis-platform)**：离线回测、数据校验与可视化。
+## Featured project
 
-目前在完善项目测试与文档，欢迎交流和开源协作。
+**[Quant Research & Backtesting](https://github.com/zihanxu330/intelligent-data-analysis-platform)**
 
-[联系我](mailto:226466417@qq.com)
+The offline example generates synthetic prices, runs a rule-based strategy and writes the result to JSON. You can change the moving-average windows, rerun the experiment and inspect the strategy and engine behind each run.
+
+[Trace a backtest](https://github.com/zihanxu330/intelligent-data-analysis-platform#trace-a-backtest) · [Run the demo](https://github.com/zihanxu330/intelligent-data-analysis-platform#quick-start)
+
+## Other projects
+
+- [AI Knowledge Base Assistant](https://github.com/zihanxu330/ai-enterprise-assistant) — document retrieval and question answering, with an offline demo.
+- [Service Dispatch Platform](https://github.com/zihanxu330/enterprise-dispatch-platform) — tracks a service order from creation through dispatch and completion.
+
+
